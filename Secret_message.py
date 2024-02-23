@@ -1,4 +1,4 @@
-message = input('Enter a word in upper case: ')
+message = input('Enter a TEXT in upper case: ')
 
 # String to hold the ascii value of each letter of the word
 secret_code = ""
